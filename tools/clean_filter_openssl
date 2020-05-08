@@ -1,0 +1,5 @@
+#!/bin/bash
+
+SALT_FIXED=73616c74656468617368
+
+openssl enc -base64 -aes-256-ecb -S $SALT_FIXED -k $PASS_FIXED
