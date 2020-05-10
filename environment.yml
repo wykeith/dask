@@ -35,6 +35,7 @@ dependencies:
   - click-plugins=1.1.1=py_0
   - cligj=0.5.0=py_0
   - cmarkgfm=0.4.2=py38h516909a_2
+  - colorcet=2.0.1=py_0
   - conda=4.8.2=py38_0
   - conda-package-handling=1.6.0=py38h516909a_1
   - contextily=1.0rc2=py_1
@@ -74,6 +75,8 @@ dependencies:
   - gstreamer=1.14.5=h36ae1b5_1
   - hdf4=4.2.13=hf30be14_1003
   - hdf5=1.10.5=nompi_h3c11f04_1104
+  - holoviews=1.13.2=pyh9f0ad1d_0
+  - hvplot=0.5.2=py_0
   - icu=64.2=he1b5a44_1
   - idna=2.8=py38_1000
   - igraph=0.7.1=h9e3b1fc_1007
