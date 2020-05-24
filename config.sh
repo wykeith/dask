@@ -12,5 +12,5 @@ cat <<EOF > .gitattributes
     renormalize = true
 EOF
 
-export PASS_FIXED = "password"
+#export PASS_FIXED = "password"
 
