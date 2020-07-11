@@ -1,0 +1,1491 @@
+
+[
+    {
+        "store_code": 753,
+        "store_description": "UNITY - SINGAPORE POST",
+        "zip": "408600",
+        "txn_ts": "2020-04-08 15:30:30.566000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 476,
+        "store_description": "HYPER SPORTS HUB",
+        "zip": "397628",
+        "txn_ts": "2020-04-08 16:00:28.320000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 396,
+        "store_description": "YISHUN RING",
+        "zip": "760414",
+        "txn_ts": "2020-04-08 16:00:02.053000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 424,
+        "store_description": "DOWNTOWN EAST",
+        "zip": "519599",
+        "txn_ts": "2020-04-08 16:01:01.996000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 488,
+        "store_description": "JALAN BUKIT MERAH",
+        "zip": "150001",
+        "txn_ts": "2020-04-08 16:00:27.284000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 330,
+        "store_description": "HYPER VIVO CITY",
+        "zip": "098585",
+        "txn_ts": "2020-04-08 16:00:45.619000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 728,
+        "store_description": "UNITY - HOLLAND VILLAGE MRT",
+        "zip": "278995",
+        "txn_ts": "2020-04-08 15:17:28.974000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 457,
+        "store_description": "Geylang 38",
+        "zip": "389551",
+        "txn_ts": "2020-04-08 16:00:44.950000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 409,
+        "store_description": "DEPOT",
+        "zip": "100108",
+        "txn_ts": "2020-04-08 15:59:45.512000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 355,
+        "store_description": "SUN PLAZA",
+        "zip": "757713",
+        "txn_ts": "2020-04-08 16:00:23.194000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 456,
+        "store_description": "Lengkong Tiga",
+        "zip": "410110",
+        "txn_ts": "2020-04-08 15:59:52.525000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 325,
+        "store_description": "GEYLANG EAST",
+        "zip": "380114",
+        "txn_ts": "2020-04-08 16:00:11.768000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 466,
+        "store_description": "FINEST @VALLEY POINT",
+        "zip": "248371",
+        "txn_ts": "2020-04-08 16:00:12.661000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 344,
+        "store_description": "SINGAPORE POST",
+        "zip": "408600",
+        "txn_ts": "2020-04-08 15:59:54.847000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 334,
+        "store_description": "JALAN TECK WHYE A",
+        "zip": "680140",
+        "txn_ts": "2020-04-08 15:59:48.962000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 423,
+        "store_description": "FAIRPRICE CAMBRIDGE",
+        "zip": "210043",
+        "txn_ts": "2020-04-08 15:58:11.019000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 483,
+        "store_description": "BUKIT BATOK WEST",
+        "zip": "650166",
+        "txn_ts": "2020-04-08 15:58:16.233000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 477,
+        "store_description": "BUKIT BATOK HOME TEAM",
+        "zip": "659003",
+        "txn_ts": "2020-04-08 15:58:58.870000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 316,
+        "store_description": "BENDEMEER BLK 30",
+        "zip": "330030",
+        "txn_ts": "2020-04-08 16:00:12.096000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 751,
+        "store_description": "UNITY - YISHUN MALL",
+        "zip": "760417",
+        "txn_ts": "2020-04-08 15:58:04.123000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 749,
+        "store_description": "UNITY - WATERWAY POINT",
+        "zip": "828761",
+        "txn_ts": "2020-04-08 15:56:44.657000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 402,
+        "store_description": "JUNCTION 8",
+        "zip": "579837",
+        "txn_ts": "2020-04-08 16:00:42.678000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 366,
+        "store_description": "111 SOMERSET",
+        "zip": "238164",
+        "txn_ts": "2020-04-08 16:00:08.845000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 425,
+        "store_description": "STIRLING ROAD",
+        "zip": "140170",
+        "txn_ts": "2020-04-08 15:59:00.614000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 331,
+        "store_description": "JURONG EAST",
+        "zip": "600135",
+        "txn_ts": "2020-04-08 15:59:19.359000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 721,
+        "store_description": "UNITY - DAWSON PLACE",
+        "zip": "142057",
+        "txn_ts": "2020-04-08 15:57:09.253000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 327,
+        "store_description": "HOUGANG B",
+        "zip": "530682",
+        "txn_ts": "2020-04-08 15:59:48.576000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 738,
+        "store_description": "UNITY - SELETAR MALL",
+        "zip": "797653",
+        "txn_ts": "2020-04-08 15:57:27.118000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 446,
+        "store_description": "CIRCUIT",
+        "zip": "370077",
+        "txn_ts": "2020-04-08 15:59:59.023000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 462,
+        "store_description": "ZHONG SHAN PARK",
+        "zip": "329984",
+        "txn_ts": "2020-04-08 16:00:37.976000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 413,
+        "store_description": "TAMPINES D",
+        "zip": "521138",
+        "txn_ts": "2020-04-08 15:59:52.604000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 445,
+        "store_description": "EUNOS CRESCENT",
+        "zip": "400005",
+        "txn_ts": "2020-04-08 15:59:21.854000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 724,
+        "store_description": "UNITY - HARBOUR FRONT CENTRE",
+        "zip": "099253",
+        "txn_ts": "2020-04-08 15:58:18.344000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 770,
+        "store_description": "UNITY - HOUGANG POINT",
+        "zip": "538692",
+        "txn_ts": "2020-04-08 15:59:40.896000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 367,
+        "store_description": "WHITESANDS",
+        "zip": "518457",
+        "txn_ts": "2020-04-08 16:00:09.508000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 495,
+        "store_description": "NORTHPOINT CITY",
+        "zip": "768019",
+        "txn_ts": "2020-04-08 16:00:52.932000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 481,
+        "store_description": "REDHILL",
+        "zip": "159053",
+        "txn_ts": "2020-04-08 16:00:04.982000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 410,
+        "store_description": "PUNGGOL PLAZA",
+        "zip": "820168",
+        "txn_ts": "2020-04-08 16:00:29.248000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 747,
+        "store_description": "UNITY - WEST MALL",
+        "zip": "658713",
+        "txn_ts": "2020-04-08 15:25:58.148000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 434,
+        "store_description": "JURONG PT HYPERMART",
+        "zip": "648331",
+        "txn_ts": "2020-04-08 16:01:01.633000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 319,
+        "store_description": "CLEMENTI A",
+        "zip": "120451",
+        "txn_ts": "2020-04-08 16:00:21.085000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 432,
+        "store_description": "LOR LIMAU",
+        "zip": "320080",
+        "txn_ts": "2020-04-08 16:00:10.403000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 357,
+        "store_description": "TAMPINES B",
+        "zip": "520475",
+        "txn_ts": "2020-04-08 15:59:45.688000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 305,
+        "store_description": "BUKIT HO SWEE",
+        "zip": "160050",
+        "txn_ts": "2020-04-08 15:59:13.876000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 454,
+        "store_description": "KIM TIAN",
+        "zip": "169252",
+        "txn_ts": "2020-04-08 15:59:19.291000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 350,
+        "store_description": "PAYA LEBAR QUARTER",
+        "zip": "409057",
+        "txn_ts": "2020-04-08 16:00:09.739000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 310,
+        "store_description": "BUKIT PANJANG PLAZA",
+        "zip": "677743",
+        "txn_ts": "2020-04-08 16:00:47.988000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 439,
+        "store_description": "CITY SQUARE MALL",
+        "zip": "208539",
+        "txn_ts": "2020-04-08 16:00:27.257000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 304,
+        "store_description": "BUKIT BATOK MRT",
+        "zip": "659958",
+        "txn_ts": "2020-04-08 16:00:42.751000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 741,
+        "store_description": "UNITY - TANGLIN MALL",
+        "zip": "247933",
+        "txn_ts": "2020-04-08 15:55:52.087000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 307,
+        "store_description": "BUKIT MERAH",
+        "zip": "150166",
+        "txn_ts": "2020-04-08 15:59:51.146000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 437,
+        "store_description": "YEW TEE POINT",
+        "zip": "689578",
+        "txn_ts": "2020-04-08 16:00:25.910000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 359,
+        "store_description": "TELOK BLANGAH",
+        "zip": "100078",
+        "txn_ts": "2020-04-08 16:00:03.840000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 499,
+        "store_description": "YEW TEE MRT FINEST",
+        "zip": "689715",
+        "txn_ts": "2020-04-08 16:00:25.312000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 420,
+        "store_description": "AMK HYPERMART",
+        "zip": "569933",
+        "txn_ts": "2020-04-08 16:00:30.760000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 427,
+        "store_description": "SEMBAWANG355",
+        "zip": "750355",
+        "txn_ts": "2020-04-08 16:00:04.728000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 395,
+        "store_description": "RIVERVALE MALL",
+        "zip": "545082",
+        "txn_ts": "2020-04-08 16:00:45.764000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 464,
+        "store_description": "AMARA",
+        "zip": "079027",
+        "txn_ts": "2020-04-08 15:59:39.981000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 314,
+        "store_description": "CHANGI CITY POINT FINEST",
+        "zip": "486038",
+        "txn_ts": "2020-04-08 15:58:37.427000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 341,
+        "store_description": "NEW UPPER CHANGI",
+        "zip": "461057",
+        "txn_ts": "2020-04-08 15:59:33.709000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 398,
+        "store_description": "KHATIB",
+        "zip": "760849",
+        "txn_ts": "2020-04-08 16:00:14.223000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 400,
+        "store_description": "ORCHARD GRAND COURT",
+        "zip": "239571",
+        "txn_ts": "2020-04-08 16:00:30.644000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 772,
+        "store_description": "UNITY - KALLANG BAHRU",
+        "zip": "330071",
+        "txn_ts": "2020-04-08 15:58:55.731000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 329,
+        "store_description": "HOUGANG LIFESTYLE",
+        "zip": "538766",
+        "txn_ts": "2020-04-08 15:59:58.824000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 361,
+        "store_description": "TANJONG PAGAR",
+        "zip": "082001",
+        "txn_ts": "2020-04-08 16:00:21.437000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 496,
+        "store_description": "WISTERIA MALL",
+        "zip": "768698",
+        "txn_ts": "2020-04-08 15:59:29.121000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 403,
+        "store_description": "WOODGROVE",
+        "zip": "739065",
+        "txn_ts": "2020-04-08 15:59:15.308000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 737,
+        "store_description": "UNITY - RIVERVALE PLAZA",
+        "zip": "540118",
+        "txn_ts": "2020-04-08 15:58:30.687000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 328,
+        "store_description": "TEKKA",
+        "zip": "218227",
+        "txn_ts": "2020-04-08 15:59:40.468000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 354,
+        "store_description": "JEWEL CHANGI AIRPORT .",
+        "zip": "819666",
+        "txn_ts": "2020-04-08 15:58:34.846000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 750,
+        "store_description": "UNITY - YISHUN 1",
+        "zip": "760291",
+        "txn_ts": "2020-04-08 15:42:35.875000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 469,
+        "store_description": "HYPER JEM",
+        "zip": "608549",
+        "txn_ts": "2020-04-08 16:00:21.479000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 321,
+        "store_description": "CORONATION PLAZA",
+        "zip": "269707",
+        "txn_ts": "2020-04-08 16:00:50.585000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 455,
+        "store_description": "BISHAN NORTH",
+        "zip": "570279",
+        "txn_ts": "2020-04-08 16:00:18.664000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 743,
+        "store_description": "UNITY - TAMPINES ONE",
+        "zip": "529536",
+        "txn_ts": "2020-04-08 15:56:41.959000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 775,
+        "store_description": "UNITY - PUNGGOL PLAZA",
+        "zip": "820168",
+        "txn_ts": "2020-04-08 16:00:38.190000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 362,
+        "store_description": "THOMSON PLAZA",
+        "zip": "574408",
+        "txn_ts": "2020-04-08 15:57:37.032000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 312,
+        "store_description": "BISHAN",
+        "zip": "570510",
+        "txn_ts": "2020-04-08 15:59:47.259000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 755,
+        "store_description": "UNITY - VIVO CITY",
+        "zip": "098585",
+        "txn_ts": "2020-04-08 15:53:22.460000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 739,
+        "store_description": "UNITY - SERANGOON CENTRAL",
+        "zip": "550266",
+        "txn_ts": "2020-04-08 15:53:34.327000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 352,
+        "store_description": "SERANGOON B",
+        "zip": "552152",
+        "txn_ts": "2020-04-08 16:00:34.452000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 430,
+        "store_description": "UPPER BOON KENG",
+        "zip": "380005",
+        "txn_ts": "2020-04-08 15:59:49.281000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 397,
+        "store_description": "TOA PAYOH HDB HUB",
+        "zip": "310500",
+        "txn_ts": "2020-04-08 16:00:08.968000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 317,
+        "store_description": "TOA PAYOH LOR 4 BLK 95",
+        "zip": "310095",
+        "txn_ts": "2020-04-08 15:59:47.070000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 732,
+        "store_description": "UNITY - LOT1 SHOPPER'S MALL",
+        "zip": "689812",
+        "txn_ts": "2020-04-08 15:45:00.477000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 494,
+        "store_description": "TAI SENG",
+        "zip": "539775",
+        "txn_ts": "2020-04-08 15:58:40.920000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 448,
+        "store_description": "ORCHID COUNTRY CLUB",
+        "zip": "769162",
+        "txn_ts": "2020-04-08 15:59:55.112000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 308,
+        "store_description": "BEDOK NORTH A",
+        "zip": "460212",
+        "txn_ts": "2020-04-08 16:00:10.005000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 419,
+        "store_description": "PASIR RIS WEST PLAZA",
+        "zip": "510734",
+        "txn_ts": "2020-04-08 16:00:51.667000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 726,
+        "store_description": "UNITY - HOUGANG MALL",
+        "zip": "538766",
+        "txn_ts": "2020-04-08 15:58:19.126000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 324,
+        "store_description": "EASTPOINT",
+        "zip": "528833",
+        "txn_ts": "2020-04-08 16:00:24.323000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 450,
+        "store_description": "CLEMENTI MALL FINEST",
+        "zip": "129588",
+        "txn_ts": "2020-04-08 15:59:54.171000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 337,
+        "store_description": "LIMBANG",
+        "zip": "680533",
+        "txn_ts": "2020-04-08 16:00:04.478000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 730,
+        "store_description": "UNITY - JUNCTION 8",
+        "zip": "579837",
+        "txn_ts": "2020-04-08 15:45:27.273000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 473,
+        "store_description": "BEDOK MALL FINEST",
+        "zip": "467360",
+        "txn_ts": "2020-04-08 16:00:20.391000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 326,
+        "store_description": "HOUGANG A",
+        "zip": "530202",
+        "txn_ts": "2020-04-08 15:59:51.409000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 322,
+        "store_description": "POIZ",
+        "zip": "347697",
+        "txn_ts": "2020-04-08 16:00:22.459000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 485,
+        "store_description": "SERANGOON VIEW",
+        "zip": "530476",
+        "txn_ts": "2020-04-08 15:59:57.231000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 771,
+        "store_description": "UNITY - JURONG POINT",
+        "zip": "648886",
+        "txn_ts": "2020-04-08 15:57:46.572000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 408,
+        "store_description": "TIONG BAHRU PLAZA",
+        "zip": "168732",
+        "txn_ts": "2020-04-08 16:00:26.204000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 492,
+        "store_description": "ANG MO KIO BLK 574",
+        "zip": "560574",
+        "txn_ts": "2020-04-08 16:00:06.186000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 467,
+        "store_description": "WEST COAST DRIVE",
+        "zip": "120502",
+        "txn_ts": "2020-04-08 16:00:24.402000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 339,
+        "store_description": "MARSILING MRT",
+        "zip": "739044",
+        "txn_ts": "2020-04-08 15:59:34.845000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 459,
+        "store_description": "Finest @Scotts Square",
+        "zip": "228209",
+        "txn_ts": "2020-04-08 15:58:33.416000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 347,
+        "store_description": "KAMPUNG ADMIRALTY",
+        "zip": "730676",
+        "txn_ts": "2020-04-08 16:00:42.223000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 484,
+        "store_description": "WATERWAY POINT",
+        "zip": "828761",
+        "txn_ts": "2020-04-08 16:00:37.484000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 463,
+        "store_description": "CHINA TOWN POINT",
+        "zip": "059413",
+        "txn_ts": "2020-04-08 16:00:11.094000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 415,
+        "store_description": "SERANGOON CENTRAL",
+        "zip": "550253",
+        "txn_ts": "2020-04-08 15:59:37.324000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 431,
+        "store_description": "COMPASSVALE LINK",
+        "zip": "544277",
+        "txn_ts": "2020-04-08 15:59:56.692000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 449,
+        "store_description": "HYPER NEX MALL",
+        "zip": "556083",
+        "txn_ts": "2020-04-08 16:00:56.409000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 725,
+        "store_description": "UNITY - HOUGANG CAPEVIEW",
+        "zip": "530476",
+        "txn_ts": "2020-04-08 15:59:44.615000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 754,
+        "store_description": "UNITY BUANGKOK SQUARE",
+        "zip": "530991",
+        "txn_ts": "2020-04-08 15:42:09.815000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 461,
+        "store_description": "HYPER CHANGI BUSINESS PARK",
+        "zip": "486018",
+        "txn_ts": "2020-04-08 16:00:44.422000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 368,
+        "store_description": "YUNG KUANG",
+        "zip": "610063",
+        "txn_ts": "2020-04-08 16:00:07.076000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 475,
+        "store_description": "POTONG PASIR COMMUNITY CLUB",
+        "zip": "358361",
+        "txn_ts": "2020-04-08 16:00:19.828000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 465,
+        "store_description": "WOODLANDS AVE 1",
+        "zip": "732570",
+        "txn_ts": "2020-04-08 15:57:41.699000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 438,
+        "store_description": "JOO CHIAT COMPLEX",
+        "zip": "420002",
+        "txn_ts": "2020-04-08 15:59:28.225000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 414,
+        "store_description": "CHAI CHEE",
+        "zip": "462029",
+        "txn_ts": "2020-04-08 15:59:07.739000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 428,
+        "store_description": "CHANGI AIRPORT T3",
+        "zip": "819663",
+        "txn_ts": "2020-04-08 16:00:05.306000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 340,
+        "store_description": "MARINE PARADE",
+        "zip": "449411",
+        "txn_ts": "2020-04-08 15:59:54.814000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 440,
+        "store_description": "KANG KAR MALL",
+        "zip": "538767",
+        "txn_ts": "2020-04-08 15:59:53.808000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 498,
+        "store_description": "HILLION MALL",
+        "zip": "678278",
+        "txn_ts": "2020-04-08 16:00:02.566000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 426,
+        "store_description": "JALAN TIGA",
+        "zip": "390041",
+        "txn_ts": "2020-04-08 16:00:12.909000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 369,
+        "store_description": "YISHUN MRT",
+        "zip": "769093",
+        "txn_ts": "2020-04-08 16:00:05.282000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 493,
+        "store_description": "BLK 150 SILAT AVE",
+        "zip": "160150",
+        "txn_ts": "2020-04-08 16:00:13.161000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 333,
+        "store_description": "FUNAN",
+        "zip": "179105",
+        "txn_ts": "2020-04-08 15:59:55.099000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 358,
+        "store_description": "TAMPINES MALL",
+        "zip": "529510",
+        "txn_ts": "2020-04-08 16:00:22.775000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 301,
+        "store_description": "OUR TAMPINES HUB",
+        "zip": "528523",
+        "txn_ts": "2020-04-08 16:00:01.425000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 336,
+        "store_description": "KALLANG BAHRU",
+        "zip": "330071",
+        "txn_ts": "2020-04-08 15:59:50.886000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 417,
+        "store_description": "SIGLAP NEW MARKET",
+        "zip": "459125",
+        "txn_ts": "2020-04-08 15:59:26.115000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 356,
+        "store_description": "TAMPINES A",
+        "zip": "521107",
+        "txn_ts": "2020-04-08 15:58:42.516000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 482,
+        "store_description": "SENGKANG EAST AVENUE",
+        "zip": "540279",
+        "txn_ts": "2020-04-08 15:59:39.450000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 444,
+        "store_description": "CANBERRA511",
+        "zip": "750511",
+        "txn_ts": "2020-04-08 15:59:51.566000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 748,
+        "store_description": "UNITY - WHITE SANDS SHOPPING C",
+        "zip": "518457",
+        "txn_ts": "2020-04-08 15:59:46.397000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 716,
+        "store_description": "UNITY - ALEXANDRA RETAIL CENTR",
+        "zip": "119963",
+        "txn_ts": "2020-04-08 15:57:09.445000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 351,
+        "store_description": "PUNGGOL DR OASIS TER",
+        "zip": "820681",
+        "txn_ts": "2020-04-08 16:00:10.538000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 491,
+        "store_description": "JURONG EAST BLK 249",
+        "zip": "600249",
+        "txn_ts": "2020-04-08 16:00:24.709000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 306,
+        "store_description": "BOON LAY",
+        "zip": "640221",
+        "txn_ts": "2020-04-08 16:00:08.961000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 453,
+        "store_description": "PUNGGOL DRIVE",
+        "zip": "820612",
+        "txn_ts": "2020-04-08 16:00:15.711000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 736,
+        "store_description": "UNITY - RIVERVALE MALL",
+        "zip": "545082",
+        "txn_ts": "2020-04-08 15:58:30.367000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 360,
+        "store_description": "TEBAN GARDEN",
+        "zip": "600037",
+        "txn_ts": "2020-04-08 15:59:53.983000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 472,
+        "store_description": "KITCHENER COMPLEX",
+        "zip": "200808",
+        "txn_ts": "2020-04-08 16:00:11.085000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 320,
+        "store_description": "CLEMENTI B",
+        "zip": "120352",
+        "txn_ts": "2020-04-08 15:58:41.789000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 429,
+        "store_description": "DOVER",
+        "zip": "130028",
+        "txn_ts": "2020-04-08 15:59:31.619000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 365,
+        "store_description": "WOODLANDS 888",
+        "zip": "730888",
+        "txn_ts": "2020-04-08 16:00:05.608000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 719,
+        "store_description": "UNITY - BISHAN ST 24",
+        "zip": "570279",
+        "txn_ts": "2020-04-08 15:55:15.970000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 479,
+        "store_description": "JURONG EAST 345",
+        "zip": "600345",
+        "txn_ts": "2020-04-08 15:59:46.715000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 733,
+        "store_description": "UNITY - NEX MALL",
+        "zip": "556083",
+        "txn_ts": "2020-04-08 15:54:47.834000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 452,
+        "store_description": "BLK 215 ANG MO KIO AVE 1",
+        "zip": "560215",
+        "txn_ts": "2020-04-08 15:59:29.884000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 407,
+        "store_description": "DAWSON",
+        "zip": "142057",
+        "txn_ts": "2020-04-08 16:00:03.349000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 406,
+        "store_description": "SENJA GRAND",
+        "zip": "670628",
+        "txn_ts": "2020-04-08 16:00:19.428000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 421,
+        "store_description": "SQUARE 2",
+        "zip": "307506",
+        "txn_ts": "2020-04-08 16:00:10.779000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 757,
+        "store_description": "UNITY - THOMSON PLAZA",
+        "zip": "574408",
+        "txn_ts": "2020-04-08 15:59:20.314000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 735,
+        "store_description": "UNITY - PLAZA SINGAPURA",
+        "zip": "238839",
+        "txn_ts": "2020-04-08 15:57:14.759000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 746,
+        "store_description": "UNITY - WEST GATE",
+        "zip": "608532",
+        "txn_ts": "2020-04-08 15:48:57.054000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 309,
+        "store_description": "BEDOK NORTH B",
+        "zip": "460089",
+        "txn_ts": "2020-04-08 16:00:05.815000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 371,
+        "store_description": "HOUGANG POINT",
+        "zip": "538692",
+        "txn_ts": "2020-04-08 16:00:49.644000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 311,
+        "store_description": "BEDOK RESERVOIR",
+        "zip": "470745",
+        "txn_ts": "2020-04-08 16:00:29.482000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 364,
+        "store_description": "TOA PAYOH A",
+        "zip": "310192",
+        "txn_ts": "2020-04-08 15:59:39.192000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 335,
+        "store_description": "JURONG WEST",
+        "zip": "640498",
+        "txn_ts": "2020-04-08 16:00:28.333000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 348,
+        "store_description": "GHIM MOH LINK",
+        "zip": "271029",
+        "txn_ts": "2020-04-08 15:59:44.603000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 480,
+        "store_description": "SELETAR MALL",
+        "zip": "797653",
+        "txn_ts": "2020-04-08 15:59:39.945000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 412,
+        "store_description": "WOODLANDS CIVIC CTR",
+        "zip": "730900",
+        "txn_ts": "2020-04-08 16:00:01.859000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 478,
+        "store_description": "WAREHOUSE CLUB",
+        "zip": "629117",
+        "txn_ts": "2020-04-08 15:59:40.448000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 745,
+        "store_description": "UNITY - VISTA POINT",
+        "zip": "730548",
+        "txn_ts": "2020-04-08 15:35:02.675000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 338,
+        "store_description": "LOT 1 SHOPPERS' MALL",
+        "zip": "689812",
+        "txn_ts": "2020-04-08 15:59:57.976000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 451,
+        "store_description": "MY VILLAGE",
+        "zip": "556679",
+        "txn_ts": "2020-04-08 15:59:56.659000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 489,
+        "store_description": "MACPHERSON MALL",
+        "zip": "368125",
+        "txn_ts": "2020-04-08 15:59:11.993000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 769,
+        "store_description": "UNITY - HOUGANG ST 21",
+        "zip": "530202",
+        "txn_ts": "2020-04-08 15:58:36.747000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 727,
+        "store_description": "UNITY - HILLION MALL",
+        "zip": "678278",
+        "txn_ts": "2020-04-08 15:58:12.899000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 752,
+        "store_description": "UNITY - YEW TEE POINT",
+        "zip": "689578",
+        "txn_ts": "2020-04-08 15:57:43.996000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 391,
+        "store_description": "RIVERVALE PLAZA",
+        "zip": "540118",
+        "txn_ts": "2020-04-08 16:00:30.411000",
+        "curr_hrs": 17,
+        "store_status": 1
+    },
+    {
+        "store_code": 405,
+        "store_description": "BUKIT BATOK EAST",
+        "zip": "650280",
+        "txn_ts": "2020-04-08 16:00:20.025000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 470,
+        "store_description": "JALAN KAYU",
+        "zip": "791447",
+        "txn_ts": "2020-04-08 15:58:32.322000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 471,
+        "store_description": "KATONG VILLAGE",
+        "zip": "428751",
+        "txn_ts": "2020-04-08 16:00:47.590000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 435,
+        "store_description": "BUONA VISTA CC",
+        "zip": "270036",
+        "txn_ts": "2020-04-08 15:59:54.470000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 718,
+        "store_description": "UNITY - BUKIT PANJANG PLAZA",
+        "zip": "677743",
+        "txn_ts": "2020-04-08 15:56:23.663000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 742,
+        "store_description": "UNITY - TOA PAYOH MRT",
+        "zip": "319398",
+        "txn_ts": "2020-04-08 15:57:00.322000",
+        "curr_hrs": 17,
+        "store_status": 3
+    },
+    {
+        "store_code": 332,
+        "store_description": "JURONG POINT",
+        "zip": "648886",
+        "txn_ts": "2020-04-08 16:00:01.519000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 313,
+        "store_description": "BUKIT TIMAH PLAZA",
+        "zip": "588996",
+        "txn_ts": "2020-04-08 15:59:25.885000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 363,
+        "store_description": "TAMAN JURONG",
+        "zip": "610399",
+        "txn_ts": "2020-04-08 15:59:22.452000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 458,
+        "store_description": "ANG MO KIO AVE 6 BLK 712",
+        "zip": "560712",
+        "txn_ts": "2020-04-08 15:59:40.593000",
+        "curr_hrs": 17,
+        "store_status": 2
+    },
+    {
+        "store_code": 474,
+        "store_description": "NUH MEDICAL CENTRE",
+        "zip": "119082",
+        "txn_ts": "2020-04-08 15:59:22.910000",
+        "curr_hrs": 17,
+        "store_status": 4
+    },
+    {
+        "store_code": 720,
+        "store_description": "UNITY - CLEMENTI MALL",
+        "zip": "129588",
+        "txn_ts": "2020-04-08 15:51:53.249000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 422,
+        "store_description": "TAMPINES CC",
+        "zip": "521866",
+        "txn_ts": "2020-04-08 16:00:11.243000",
+        "curr_hrs": 17,
+        "store_status": 0
+    },
+    {
+        "store_code": 460,
+        "store_description": "PSA",
+        "zip": "119963",
+        "txn_ts": "2020-04-08 15:59:54.728000",
+        "curr_hrs": 17,
+        "store_status": 2
+    }
+]

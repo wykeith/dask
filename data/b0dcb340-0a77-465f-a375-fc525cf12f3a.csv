@@ -1,0 +1,109 @@
+_id,month,energy_product,fuel_mix
+1,2014-01,Petroleum Products,0.5
+2,2014-01,Natural Gas,95.3
+3,2014-01,Others,4.2
+4,2014-02,Petroleum Products,0.4
+5,2014-02,Natural Gas,96.0
+6,2014-02,Others,3.6
+7,2014-03,Petroleum Products,0.5
+8,2014-03,Natural Gas,96.0
+9,2014-03,Others,3.5
+10,2014-04,Petroleum Products,1.4
+11,2014-04,Natural Gas,94.7
+12,2014-04,Others,3.9
+13,2014-05,Petroleum Products,0.8
+14,2014-05,Natural Gas,95.3
+15,2014-05,Others,3.9
+16,2014-06,Petroleum Products,1.5
+17,2014-06,Natural Gas,94.4
+18,2014-06,Others,4.1
+19,2014-07,Petroleum Products,0.9
+20,2014-07,Natural Gas,95.1
+21,2014-07,Others,4.0
+22,2014-08,Petroleum Products,0.8
+23,2014-08,Natural Gas,95.5
+24,2014-08,Others,3.8
+25,2014-09,Petroleum Products,0.3
+26,2014-09,Natural Gas,95.7
+27,2014-09,Others,4.0
+28,2014-10,Petroleum Products,0.5
+29,2014-10,Natural Gas,95.4
+30,2014-10,Others,4.1
+31,2014-11,Petroleum Products,0.4
+32,2014-11,Natural Gas,95.7
+33,2014-11,Others,3.9
+34,2014-12,Petroleum Products,0.3
+35,2014-12,Natural Gas,95.6
+36,2014-12,Others,4.0
+37,2015-01,Petroleum Products,0.4
+38,2015-01,Natural Gas,95.6
+39,2015-01,Others,3.3
+40,2015-02,Petroleum Products,0.7
+41,2015-02,Natural Gas,95.4
+42,2015-02,Others,4.0
+43,2015-03,Petroleum Products,0.5
+44,2015-03,Natural Gas,95.2
+45,2015-03,Others,4.3
+46,2015-04,Petroleum Products,0.5
+47,2015-04,Natural Gas,95.4
+48,2015-04,Others,4.1
+49,2015-05,Petroleum Products,0.7
+50,2015-05,Natural Gas,95.1
+51,2015-05,Others,4.2
+52,2015-06,Petroleum Products,0.5
+53,2015-06,Natural Gas,95.3
+54,2015-06,Others,4.1
+55,2014-01,Petroleum Products,0.5
+56,2014-01,Natural Gas,95.3
+57,2014-01,Others,4.2
+58,2014-02,Petroleum Products,0.4
+59,2014-02,Natural Gas,96.0
+60,2014-02,Others,3.6
+61,2014-03,Petroleum Products,0.5
+62,2014-03,Natural Gas,96.0
+63,2014-03,Others,3.5
+64,2014-04,Petroleum Products,1.4
+65,2014-04,Natural Gas,94.7
+66,2014-04,Others,3.9
+67,2014-05,Petroleum Products,0.8
+68,2014-05,Natural Gas,95.3
+69,2014-05,Others,3.9
+70,2014-06,Petroleum Products,1.5
+71,2014-06,Natural Gas,94.4
+72,2014-06,Others,4.1
+73,2014-07,Petroleum Products,0.9
+74,2014-07,Natural Gas,95.1
+75,2014-07,Others,4.0
+76,2014-08,Petroleum Products,0.8
+77,2014-08,Natural Gas,95.5
+78,2014-08,Others,3.8
+79,2014-09,Petroleum Products,0.3
+80,2014-09,Natural Gas,95.7
+81,2014-09,Others,4.0
+82,2014-10,Petroleum Products,0.5
+83,2014-10,Natural Gas,95.4
+84,2014-10,Others,4.1
+85,2014-11,Petroleum Products,0.4
+86,2014-11,Natural Gas,95.7
+87,2014-11,Others,3.9
+88,2014-12,Petroleum Products,0.3
+89,2014-12,Natural Gas,95.6
+90,2014-12,Others,4.0
+91,2015-01,Petroleum Products,0.4
+92,2015-01,Natural Gas,95.6
+93,2015-01,Others,3.3
+94,2015-02,Petroleum Products,0.7
+95,2015-02,Natural Gas,95.4
+96,2015-02,Others,4.0
+97,2015-03,Petroleum Products,0.5
+98,2015-03,Natural Gas,95.2
+99,2015-03,Others,4.3
+100,2015-04,Petroleum Products,0.5
+101,2015-04,Natural Gas,95.4
+102,2015-04,Others,4.1
+103,2015-05,Petroleum Products,0.7
+104,2015-05,Natural Gas,95.1
+105,2015-05,Others,4.2
+106,2015-06,Petroleum Products,0.5
+107,2015-06,Natural Gas,95.3
+108,2015-06,Others,4.1
