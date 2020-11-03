@@ -2,3 +2,5 @@ fonts-humor-sans
 ffmpeg
 vim
 openssl
+libnss3
+libgconf-2-4
